@@ -1,0 +1,6 @@
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\TestHello\bin\Debug\TestHello.exe.config
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\TestHello\bin\Debug\TestHello.exe
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\TestHello\bin\Debug\TestHello.pdb
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\TestHello\obj\Debug\TestHello.exe
+C:\Users\Tharun Parackal\Documents\Tharun (Windows)\C#\TestHello\obj\Debug\TestHello.pdb
